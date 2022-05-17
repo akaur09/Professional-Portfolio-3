@@ -8,5 +8,7 @@ This web application is my updated portfolio made after completing project 2.
 
 ## Features:
 
+![Alt img](./images/homepage.png)
+
 ## Creditors:
 Amnider Kaur https://github.com/akaur09 
